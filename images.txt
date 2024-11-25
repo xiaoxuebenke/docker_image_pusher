@@ -4,7 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-rancher/rancher:v2.8.6-rc3
-seafile/seafile-mc:11.0.8
-memcached/memcached:1.6.18
-mariadb/mariadb:10.11
+#rancher/rancher:v2.8.6-rc3
+#seafile/seafile-mc:11.0.8
+#memcached/memcached:1.6.18
+#mariadb/mariadb:10.11
+goharbor/prepare:v2.11.2
