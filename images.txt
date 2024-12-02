@@ -11,3 +11,4 @@
 goharbor/prepare:v2.11.2
 centos:centos7.9.2009
 nginx:perl
+busybox
