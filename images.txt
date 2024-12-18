@@ -12,5 +12,6 @@
 #centos:centos7.9.2009
 #nginx:latest
 #busybox
-tomcat:11.0.0-M17
-tomcat:9.0.86 
+#tomcat:11.0.0-M17
+#tomcat:9.0.86 
+tomcat:7.0.96-jdk8-openjdk
