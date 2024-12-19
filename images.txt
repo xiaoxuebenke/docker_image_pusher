@@ -15,5 +15,6 @@
 #tomcat:11.0.0-M17
 #tomcat:9.0.86 
 #tomcat:7.0.96-jdk8-openjdk
-mysql:8.0.34
-wordpress:latest
+#mysql:8.0.34
+#wordpress:latest
+dockersamples/visualizer
