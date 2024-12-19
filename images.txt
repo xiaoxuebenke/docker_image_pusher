@@ -18,5 +18,5 @@
 #mysql:8.0.34
 #wordpress:latest
 #dockersamples/visualizer
-portainer/portainer:2.21.4
+portainer/portainer-2.21.4
 
