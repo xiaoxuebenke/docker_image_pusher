@@ -17,4 +17,5 @@
 #tomcat:7.0.96-jdk8-openjdk
 #mysql:8.0.34
 #wordpress:latest
-dockersamples/visualizer
+#dockersamples/visualizer
+portainer/portainer
