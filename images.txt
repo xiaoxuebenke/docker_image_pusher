@@ -19,5 +19,6 @@
 #wordpress:latest
 #dockersamples/visualizer
 #portainer/portainer
-haproxy:latest
+#haproxy:latest
+gitlab-ce:latest
 
