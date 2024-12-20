@@ -21,4 +21,5 @@
 #portainer/portainer
 #haproxy:latest
 gitlab/gitlab-ce:latest
+jenkins/jenkins:latest
 
