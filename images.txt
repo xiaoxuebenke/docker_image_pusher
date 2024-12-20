@@ -20,5 +20,5 @@
 #dockersamples/visualizer
 #portainer/portainer
 #haproxy:latest
-gitlab-ce:latest
+gitlab/gitlab-ce:latest
 
