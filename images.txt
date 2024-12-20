@@ -20,6 +20,6 @@
 #dockersamples/visualizer
 #portainer/portainer
 #haproxy:latest
-gitlab/gitlab-ce:latest
-jenkins/jenkins:latest
-
+#gitlab/gitlab-ce:latest
+#jenkins/jenkins:latest
+gitlab/gitlab-runner:latest
