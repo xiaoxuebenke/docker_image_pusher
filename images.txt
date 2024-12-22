@@ -7,7 +7,7 @@
 #rancher/rancher:v2.8.6-rc3
 #seafile/seafile-mc:11.0.8
 #memcached/memcached:1.6.18
-#mariadb/mariadb:10.11
+mariadb/mariadb:11.4.2
 #goharbor/prepare:v2.11.2
 #centos:centos7.9.2009
 #nginx:latest
