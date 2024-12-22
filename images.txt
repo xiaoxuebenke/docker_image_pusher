@@ -22,4 +22,5 @@
 #gitlab/gitlab-ce:latest
 #jenkins/jenkins:latest
 #gitlab/gitlab-runner:latest
-mariadb:11.4.4
+#mariadb:11.4.4
+centos:centos7.9
