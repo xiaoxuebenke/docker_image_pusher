@@ -22,4 +22,4 @@
 #gitlab/gitlab-ce:latest
 #jenkins/jenkins:latest
 #gitlab/gitlab-runner:latest
-mariadb/mariadb:10.11
+mariadb/mariadb:latest
