@@ -19,8 +19,10 @@
 #portainer/portainer
 #haproxy:latest
 #gitlab/gitlab-ce:latest
-#jenkins/jenkins:latest
 #gitlab/gitlab-runner:latest
 #mariadb:11.4.4
 #centos:centos7
-centos:centos7.9.2009
+#centos:centos7.9.2009
+jenkins/jenkins:jdk21
+jenkins/jenkins:jdk17
+
