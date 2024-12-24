@@ -26,5 +26,5 @@
 #jenkins/jenkins:jdk21
 #jenkins/jenkins:jdk17
 #guillaumerochette/solo:latest
-b3log/solo
-
+#b3log/solo
+b3log/solo-4.4.0
