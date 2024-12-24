@@ -25,6 +25,6 @@
 #centos:centos7.9.2009
 #jenkins/jenkins:jdk21
 #jenkins/jenkins:jdk17
-guillaumerochette/solo:latest
+#guillaumerochette/solo:latest
 b3log/solo
 
