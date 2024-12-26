@@ -30,4 +30,5 @@
 #oilrmutp57/mysql5.7:1.1
 #elasticsearch:8.16.2
 #kibana:8.16.2
-redis
+#redis
+rabbitmq:3.13
