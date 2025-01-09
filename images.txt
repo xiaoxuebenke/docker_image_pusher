@@ -32,4 +32,5 @@
 #kibana:8.16.2
 #redis
 #rabbitmq:3.13
-easzlab/pause-amd64:3.2
+#easzlab/pause-amd64:3.2
+ubuntu:20.04
