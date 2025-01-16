@@ -34,7 +34,7 @@
 #rabbitmq:3.13
 #easzlab/pause-amd64:3.2
 #ubuntu:20.04
-rancher/kube-apiserver:v1.26.8
+registry.k8s.io/kube-apiserver:v1.26.8
 #rancher/kube-controller-manager:v1.26.8
 #rancher/kube-scheduler:v1.26.8
 #rancher/kube-proxy:v1.26.8
