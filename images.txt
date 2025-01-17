@@ -41,4 +41,8 @@
 #registry.k8s.io/pause:3.9
 #registry.k8s.io/etcd:3.5.6-0
 #registry.k8s.io/coredns/coredns:v1.9.3
-rancher/calico:v3.13.3
+#rancher/calico:v3.13.3
+rancher/calico-kube-controllers:v3.18.1
+rancher/calico-node:v3.18.1
+chainguard/calico-typha:sha256-ff72a49554fe6a361289cb80df6fdb28610bf0f6697ec89af1b70770a9f99191.sig
+jixiangjiangshu/csi-node-driver:v2.5.1
