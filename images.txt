@@ -47,4 +47,5 @@
 #chainguard/calico-typha:sha256-ff72a49554fe6a361289cb80df6fdb28610bf0f6697ec89af1b70770a9f99191.sig
 #jixiangjiangshu/csi-node-driver:v2.5.1
 #rancher/pause:3.6
-alpine
+#alpine
+coredns/coredns:1.10.0
