@@ -48,4 +48,5 @@
 #jixiangjiangshu/csi-node-driver:v2.5.1
 #rancher/pause:3.6
 #alpine
-coredns/coredns:1.10.0
+#coredns/coredns:1.10.0
+seafileltd/seafile-mc:12.0-latest
