@@ -50,5 +50,5 @@
 #alpine
 #coredns/coredns:1.10.0
 #seafileltd/seafile-mc:12.0-latest
-seafileltd/seafile-mc:11.0.13
-
+#seafileltd/seafile-mc:11.0.13
+memcached:1.6.37
