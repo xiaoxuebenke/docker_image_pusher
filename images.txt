@@ -53,4 +53,5 @@
 #seafileltd/seafile-mc:11.0.13
 #memcached:1.6.37
 #onlyoffice/documentserver:8.3
-mariadb:latest
+#mariadb:latest
+onlyoffice/documentserver:latest
