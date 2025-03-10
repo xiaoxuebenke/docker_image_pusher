@@ -56,4 +56,5 @@
 #mariadb:latest
 #onlyoffice/documentserver:8.1.1
 #onlyoffice/documentserver:latest
-onlyoffice/documentserver:7.4
+#onlyoffice/documentserver:7.4
+seafileltd/seafile-mc:11.0-latest
