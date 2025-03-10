@@ -54,4 +54,5 @@
 #memcached:1.6.37
 #onlyoffice/documentserver:8.3
 #mariadb:latest
-onlyoffice/documentserver:8.1.1
+#onlyoffice/documentserver:8.1.1
+onlyoffice/documentserver:latest
