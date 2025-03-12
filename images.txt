@@ -61,4 +61,5 @@
 #mariadb:10.11
 #mariadb:11.7
 #lucaslorentz/caddy-docker-proxy:2.9-alpine
-seafileltd/sdoc-server:1.0-latest
+#seafileltd/sdoc-server:1.0-latest
+seafileltd/notification-server:12.0-latest
