@@ -63,4 +63,5 @@
 #lucaslorentz/caddy-docker-proxy:2.9-alpine
 #seafileltd/sdoc-server:1.0-latest
 #seafileltd/notification-server:12.0-latest
-onlyoffice/documentserver:7.1.1
+#onlyoffice/documentserver:7.1.1
+elasticsearch:8.6.2
