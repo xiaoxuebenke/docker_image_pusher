@@ -69,7 +69,7 @@
 #seafileltd/seafile-mc:12.0.4
 #seafileltd/seafile-mc:12.0.7
 #seafileltd/seafile-mc:12.0.7-testing
-prom/snmp-exporter
-pull prom/snmp-exporter:v0.28.0
+
+prom/snmp-exporter:v0.28.0
 prom/snmp-exporter:v0.22.0
 
