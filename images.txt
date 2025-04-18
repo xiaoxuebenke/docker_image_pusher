@@ -72,3 +72,4 @@
 prom/snmp-exporter:v0.22.0
 prom/snmp-exporter:v0.20.0
 prom/snmp-generator:v0.23.0
+tomcat:8.5.24
