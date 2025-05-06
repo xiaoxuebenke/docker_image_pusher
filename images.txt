@@ -76,3 +76,4 @@ tomcat:8.5.24
 nginx:1.24.0
 tomcat:8.5.24-jre8-alpine
 centos:centos7.9.2009
+netboxcommunity/netbox:v4.2.6
