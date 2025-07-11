@@ -79,3 +79,4 @@ centos:centos7.9.2009
 netboxcommunity/netbox:v4.2.6
 redis:7
 postgres:15
+rockylinux/rockylinux:8.9
