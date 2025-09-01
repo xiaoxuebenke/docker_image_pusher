@@ -80,5 +80,5 @@
 #redis:7
 #postgres:15
 #rockylinux/rockylinux:8.9
-quay.io/coreos/etcd:3.6.4
+coreos/etcd:3.6.4
 #patroni/patroni:latest
