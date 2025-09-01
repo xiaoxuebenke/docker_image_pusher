@@ -80,3 +80,6 @@ netboxcommunity/netbox:v4.2.6
 redis:7
 postgres:15
 rockylinux/rockylinux:8.9
+etcd:3.6.2
+Patroni:4.0.6
+haproxy:latest
