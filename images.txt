@@ -83,3 +83,4 @@
 #quay.io/coreos/etcd:3.6.4
 patroni/patroni:latest
 #haproxy:latest
+postgres:17.5
