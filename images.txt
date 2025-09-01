@@ -80,5 +80,6 @@
 #redis:7
 #postgres:15
 #rockylinux/rockylinux:8.9
-coreos/etcd:3.6.4
+#quay.io/coreos/etcd:3.6.4
 #patroni/patroni:latest
+haproxy:latest
