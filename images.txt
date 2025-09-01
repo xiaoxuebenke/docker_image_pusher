@@ -81,5 +81,5 @@
 #postgres:15
 #rockylinux/rockylinux:8.9
 #quay.io/coreos/etcd:3.6.4
-#patroni/patroni:latest
-haproxy:latest
+patroni/patroni:latest
+#haproxy:latest
