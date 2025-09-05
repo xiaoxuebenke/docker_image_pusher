@@ -84,5 +84,4 @@
 #patroni/patroni:latest
 #haproxy:latest
 #postgres/postgres:17.5
-#ongres/patroni:latest
-patroni:latest
+ongres/patroni:latest
