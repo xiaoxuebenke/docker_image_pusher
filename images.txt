@@ -84,7 +84,8 @@
 #patroni/patroni:latest
 #haproxy:latest
 #postgres/postgres:17.5
+#ongres/patroni:latest
+#postgres:17
+#ongres/patroni:v4.0.4-pg17.2-hash-16c7ada35ee930cbf97c82a5d67d9fa1-linux-amd64
+#ongres/patroni:v4.0.4-pg17.2-build-6.39
 ongres/patroni:latest
-postgres:17
-ongres/patroni:v4.0.4-pg17.2-hash-16c7ada35ee930cbf97c82a5d67d9fa1-linux-amd64
-ongres/patroni:v4.0.4-pg17.2-build-6.39
