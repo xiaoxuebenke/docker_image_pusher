@@ -90,3 +90,4 @@
 #ongres/patroni:v4.0.4-pg17.2-build-6.39
 ongres/patroni:latest
 postgres:17.5
+joinsunsoft/etcdv3-browser:latest
