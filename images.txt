@@ -91,3 +91,4 @@
 ongres/patroni:latest
 postgres:17.5
 joinsunsoft/etcdv3-browser:latest
+tzfun/etcd-workbench:latest
