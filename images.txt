@@ -92,3 +92,9 @@ ongres/patroni:latest
 postgres:17.5
 joinsunsoft/etcdv3-browser:latest
 tzfun/etcd-workbench:latest
+kubesphere/kube-apiserver:v1.32.6
+kubesphere/kube-controller-manager:v1.32.6
+kubesphere/kube-scheduler:v1.32.6
+kubesphere/kube-proxy:v1.32.6
+coredns/coredns:1.11.3
+
