@@ -134,3 +134,4 @@ noiro/opflex:6.1.1.4.81c2369
 noiro/openvswitch:6.1.1.4.81c2369
 noiro/aci-containers-controller:6.1.1.4.81c2369
 nginx:1.29
+nginx:1.28
