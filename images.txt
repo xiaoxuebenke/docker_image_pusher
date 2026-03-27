@@ -137,3 +137,4 @@
 #nginx:1.28
 #wnameless/oracle-xe-11g-r2
 mysql:8.0.39
+mysql:8.0.34
