@@ -139,3 +139,4 @@
 mysql:8.0.39
 mysql:8.0.34
 nginx:stable-alpine3.23-perl
+postgres:17.10
