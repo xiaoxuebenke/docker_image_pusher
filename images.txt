@@ -146,3 +146,4 @@ grafana/loki:3.7
 prom/alertmanager:latest
 prom/node-exporter:latest
 prom/prometheus:latest
+grafana/loki:latest
