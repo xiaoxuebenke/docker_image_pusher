@@ -141,3 +141,4 @@ mysql:8.0.34
 nginx:stable-alpine3.23-perl
 postgres:17.10
 prom/prometheus:v3
+grafana/grafana-enterprise
