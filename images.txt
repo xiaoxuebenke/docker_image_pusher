@@ -144,3 +144,4 @@ prom/prometheus:v3
 grafana/grafana-enterprise
 grafana/loki:3.7
 prom/alertmanager:latest
+prom/node-exporter:latest
