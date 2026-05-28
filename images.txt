@@ -148,3 +148,4 @@ prom/node-exporter:latest
 prom/prometheus:latest
 grafana/loki:latest
 grafana/grafana:latest
+grafana/promtail:3.6.11
