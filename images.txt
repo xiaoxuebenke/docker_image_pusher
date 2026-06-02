@@ -150,3 +150,4 @@ grafana/loki:latest
 grafana/grafana:latest
 grafana/promtail:3.6.11
 prom/blackbox-exporter:latest
+google/cadvisor:latest
