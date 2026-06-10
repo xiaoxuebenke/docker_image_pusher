@@ -11,4 +11,4 @@ grafana/promtail:3.6.11
 prom/blackbox-exporter:latest
 google/cadvisor:latest
 coredns/coredns:latest
-prom/snmp-exporter:latest
+prom/snmp-exporter:v0.22.0
