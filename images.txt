@@ -12,3 +12,4 @@ prom/blackbox-exporter:latest
 google/cadvisor:latest
 coredns/coredns:latest
 prom/snmp-exporter:v0.22.0
+portainer/agent:lts
