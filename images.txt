@@ -15,3 +15,4 @@ prom/snmp-exporter:v0.22.0
 portainer/agent:lts
 busybox:latest
 prom/node-exporter:v1.11.1
+nginx-ingress:5.4.3
