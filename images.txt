@@ -14,3 +14,4 @@ coredns/coredns:latest
 prom/snmp-exporter:v0.22.0
 portainer/agent:lts
 busybox:latest
+prom/node-exporter:v1.11.1
