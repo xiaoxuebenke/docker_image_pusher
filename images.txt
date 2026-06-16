@@ -16,4 +16,4 @@ portainer/agent:lts
 busybox:latest
 prom/node-exporter:v1.11.1
 nginx:1.30.2
-prom/prometheus:latest
+prom/prometheus:v3.5.3
