@@ -21,3 +21,4 @@ grafana/grafana:12.4.4
 kubernetesui/dashboard:v2.7.0
 kubernetesui/metrics-scraper:v1.0.8
 portainer/portainer-ce:lts
+fluent/fluentd-kubernetes-daemonset:v1.18.0-debian-elasticsearch8-1.4
