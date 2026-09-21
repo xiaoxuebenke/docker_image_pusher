@@ -25,3 +25,4 @@ fluent/fluentd-kubernetes-daemonset:v1.18.0-debian-elasticsearch8-1.4
 fluent/fluentd-kubernetes-daemonset:v1.18.0-debian-elasticsearch8-1.5
 postgres:16.14
 rancher/rancher:v2.14.3
+rancher/rancher:v2.14.4-alpha1
