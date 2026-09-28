@@ -1,3 +1,4 @@
 rancher/fleet:v0.16.1
 rancher/rancher-webhook:v0.11.1
 rancher/scc-operator:v0.5.1
+rancher/rancher:v2.15.2
