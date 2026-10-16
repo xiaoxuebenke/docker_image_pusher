@@ -1,1 +1,2 @@
-gitlab/gitlab-ce:latest
+#gitlab/gitlab-ce:latest
+postgres:18.6
